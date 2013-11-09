@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GlowStress</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btna">Add Reminder</string>
+    <string name="btnd">Delete Reminder</string>
+    <string name="title_activity_add_reminder">AddReminder</string>
+
+</resources>
